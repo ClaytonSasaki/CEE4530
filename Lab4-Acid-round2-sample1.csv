@@ -1,0 +1,12 @@
+﻿Sample Volume (ml),50,
+Titrant normality,0.1,
+Equivalent Volume (ml),0.13583,
+ANC (eq/L),0.000272,
+correlation coefficient,0.999757,
+,,
+Titrant Volume (ml),pH,F1
+0,8.062663,0
+0.125,4.04464,0.00009
+0.2,3.633757,0.000233
+0.25,3.393131,0.000406
+0.3,3.229266,0.000593
